@@ -41,4 +41,19 @@ h1 {
     font-family: 'Lobster', cursive;
   }
 
+  p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+p {
+    margin: 0 0 10px;
+}
+
+.about p {
+    font-size: 26px;
+}
 
